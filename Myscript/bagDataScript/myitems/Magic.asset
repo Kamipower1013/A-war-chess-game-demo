@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91a81e871e843d54aa29c11454baa8b8, type: 3}
+  m_Name: Magic
+  m_EditorClassIdentifier: 
+  Data:
+    itemID: 6
+    itemName: Magic_Staff
+    myitemimage: {fileID: 21300000, guid: 02ff976d39577774bb44b83610e61dec, type: 3}
+    thisItemModel: {fileID: 0}
+    attackValue: 0
+    magic_attack_value: 10
+    defenceValue: 0
+    add_HP: 0
+    add_MP: 0
+    dodge: 0
+    itemHeld: 1
+    equipment: 4
+    discribe: "this is a magic_Staff.equip it and you will grow your magic attack
+      10 value.\n\u52A0\u5341\u70B9\u9B54\u6CD5\u653B\u51FB"
