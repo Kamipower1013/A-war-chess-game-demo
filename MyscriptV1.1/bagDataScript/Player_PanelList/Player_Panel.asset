@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 959617c6fcee2e54298072b6d9fd5a1b, type: 3}
+  m_Name: Player_Panel
+  m_EditorClassIdentifier: 
+  HeadItem: {fileID: 0}
+  BodyItem: {fileID: 0}
+  Sword_weapon: {fileID: 0}
+  magic_weapon: {fileID: 0}
+  ShoeItem: {fileID: 0}
+  sheild: {fileID: 0}
+  Slot: {fileID: 0}
+  panelitemList:
+  - {fileID: 11400000, guid: ac52e112ecd91c948874de64a7e146b9, type: 2}
+  - {fileID: 11400000, guid: 04d144231ebf1c1419ab8795f3e55e22, type: 2}
+  - {fileID: 11400000, guid: f5b12028cca8c7f4dad07bdfb68aad0f, type: 2}
+  - {fileID: 11400000, guid: 4863a1e7480bf2b40b61800a17b13415, type: 2}
+  - {fileID: 11400000, guid: 069c9a4a70b14a14eae31a2e97331be0, type: 2}
+  - {fileID: 11400000, guid: f0cd083f3761d574593cdd7b990597b0, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  final_attack: 55
+  final_Defence: 20
+  final_dodge: 5
+  final_magic_attack: 20
+  final_goldcoin: 0
+  Level: 0
+  HP: 0
+  MP: 0

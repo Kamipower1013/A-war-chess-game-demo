@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91a81e871e843d54aa29c11454baa8b8, type: 3}
+  m_Name: Sword2_P
+  m_EditorClassIdentifier: 
+  Data:
+    itemID: 7
+    itemName: 
+    myitemimage: {fileID: 0}
+    thisItemModel: {fileID: 0}
+    attackValue: 15
+    magic_attack_value: 0
+    defenceValue: 0
+    add_HP: 0
+    add_MP: 0
+    dodge: 0
+    itemHeld: 0
+    equipment: 0
+    discribe: 
