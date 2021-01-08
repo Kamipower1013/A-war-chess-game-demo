@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f88e04b6fd2e58e41a3eed7c7c56ffcb, type: 3}
+  m_Name: Card6
+  m_EditorClassIdentifier: 
+  CardID: 5
+  thisCardType: 2
+  CardName: 
+  player_Path: 0
+  Add_attackValue: 0
+  magic_attack_value: 0
+  defenceValue: 0
+  add_HP: 30
+  add_MP: 0
+  dodge: 0
+  discribe: "\u6062\u590D\u5361\n\u56DE\u590D30\u70B9\u751F\u547D"
